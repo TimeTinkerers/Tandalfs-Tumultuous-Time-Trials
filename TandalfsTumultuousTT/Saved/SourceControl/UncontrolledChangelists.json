@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/donal/Documents/GitHub/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/DevLevels/Art_Don.umap",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/ParticleSystems/Fire.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Particles/P_Explosion.uasset",
@@ -13,8 +12,6 @@
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Particles/P_Smoke.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Particles/P_Sparks.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Particles/P_Steam_Lit.uasset",
-				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/ParticleSystems/M_smoke_subUV.uasset",
-				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/ParticleSystems/M_Fire_SubUV.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Audio/Collapse01.uasset",
@@ -276,7 +273,12 @@
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Props/SM_Lamp_Wall.uasset",
 				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset",
-				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/6Q/9C5GHUWRTOPCEOQTKIPXN4.uasset"
+				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/6Q/9C5GHUWRTOPCEOQTKIPXN4.uasset",
+				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/DevLevels/Dylan_Pompeii.umap",
+				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/DevLevels/Dylan_Pompei.umap",
+				"C:/Users/donal/Documents/GitHub/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/DevLevels/Art_Don.umap",
+				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/ParticleSystems/M_smoke_subUV.uasset",
+				"C:/Users/Dylan Paul/OneDrive/Desktop/Tandalf TTT repo/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/ParticleSystems/M_Fire_SubUV.uasset"
 			]
 		}
 	]
