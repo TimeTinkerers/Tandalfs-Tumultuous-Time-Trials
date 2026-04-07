@@ -76,16 +76,4 @@ Intermediate/*
 Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 DerivedDataCache/*
-=======
-DerivedDataCache/*
->>>>>>> Stashed changes
-=======
-DerivedDataCache/*
->>>>>>> Stashed changes
-=======
-DerivedDataCache/*
->>>>>>> Stashed changes
