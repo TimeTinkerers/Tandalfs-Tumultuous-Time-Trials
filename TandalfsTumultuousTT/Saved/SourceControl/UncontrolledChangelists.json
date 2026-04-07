@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Input/Actions/IA_Save.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Input/IMC_Default.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Input/Actions/IA_Fireball.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Input/Actions/Fireball.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Input/Actions/IA_Freeze.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Input/Actions/IA_Return.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Prefabs/Platform.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/BQ/5D3FFBK5VTGFOITUY3CPGG.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/OF/9F2WW1I24OK5JRH3O2CK5K.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/99/IZSF0IDQ6ITK7F9QVSTCCA.uasset",
+				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Prefabs/SavePylon.uasset"
+			]
+		}
+	]
+}
