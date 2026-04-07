@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jenny/OneDrive/PrototypeGame/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/UI_Art/Resume_Button.uasset",
+				"C:/Users/jenny/OneDrive/PrototypeGame/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/UI_Art/Settings_Button.uasset",
 				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Input/Actions/IA_Save.uasset",
 				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Homework/PACMAN/GITHUB/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/Input/IMC_Default.uasset",
