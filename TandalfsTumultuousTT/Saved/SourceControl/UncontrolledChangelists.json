@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/an793098/Downloads/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/TTTT_ModelsandMaterials/Pillar/Pillar_Textures/t_orm_pillar.uasset",
+				"C:/Users/an793098/Downloads/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/TTTT_ModelsandMaterials/Pillar/Pillar_Textures/t_normal_pillar.uasset",
+				"C:/Users/an793098/Downloads/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/TTTT_ModelsandMaterials/Pillar/Pillar_Textures/t_basecolor_pillar.uasset",
+				"C:/Users/an793098/Downloads/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/TTTT_ModelsandMaterials/Pillar/Pillar.uasset",
+				"C:/Users/an793098/Downloads/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/DevLevels/Art_Antoine.umap",
+				"C:/Users/an793098/Downloads/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/TTTT_ModelsandMaterials/Pillar/MM_Pillar.uasset"
+			]
+		}
+	]
+}
