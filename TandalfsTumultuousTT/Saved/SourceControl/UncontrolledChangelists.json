@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/emanu/Documents/GitHub/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/DevLevels/LightHouseHub.umap",
+				"C:/Users/emanu/Documents/GitHub/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/emanu/Documents/GitHub/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/DevLevels/Maps/Floor_2_Fireball_Tutorial_Mat.uasset",
+				"C:/Users/emanu/Documents/GitHub/Tandalfs-Tumultuous-Time-Trials/TandalfsTumultuousTT/Content/DevLevels/Maps/Floor_2_Fireball_Tutorial.uasset"
+			]
+		}
+	]
+}
